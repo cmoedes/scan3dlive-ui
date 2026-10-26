@@ -1,5 +1,7 @@
 # Scan3DLive Web Application (UI)
 
+<img width="666" height="196" alt="image" src="https://github.com/user-attachments/assets/85058b18-d630-45a1-9040-127833dfdf80" />
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
